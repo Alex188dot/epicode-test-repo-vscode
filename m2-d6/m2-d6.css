@@ -1,0 +1,60 @@
+body {
+  height: 98vh;
+  position: relative;
+}
+
+.product-image {
+  width: 10rem;
+}
+
+.hide-visibility {
+  visibility: hidden;
+}
+
+table,
+th {
+  border: 1px solid black;
+  text-align: center;
+}
+
+th {
+  width: 7rem;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 700;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: black;
+}
+
+.changeIntoRed {
+  color: red;
+}
+
+label {
+  display: block;
+  margin-top: 2rem;
+}
+#textarea {
+  margin-top: 1.5rem;
+}
+
+button {
+  margin-left: 1rem;
+}
+
+footer {
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-style: italic;
+}
