@@ -7,7 +7,7 @@ body {
   width: 10rem;
 }
 
-.hide-visibility {
+.hidden {
   visibility: hidden;
 }
 
@@ -24,13 +24,6 @@ th {
 a {
   text-decoration: none;
   font-weight: 700;
-}
-
-a:link,
-a:visited,
-a:hover,
-a:active {
-  color: black;
 }
 
 .changeIntoRed {
